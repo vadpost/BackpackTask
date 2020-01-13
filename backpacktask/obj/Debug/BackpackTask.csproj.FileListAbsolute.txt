@@ -1,0 +1,37 @@
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\vscode\BackpackTask\BackpackTask\bin\Debug\BackpackTask.exe.config
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\vscode\BackpackTask\BackpackTask\obj\Debug\BackpackTask.csprojResolveAssemblyReference.cache
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\vscode\BackpackTask\BackpackTask\obj\Debug\BackpackTask.Form1.resources
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\vscode\BackpackTask\BackpackTask\obj\Debug\BackpackTask.Properties.Resources.resources
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\vscode\BackpackTask\BackpackTask\obj\Debug\BackpackTask.csproj.GenerateResource.Cache
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\vscode\BackpackTask\BackpackTask\bin\Debug\BackpackTask.exe
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\vscode\BackpackTask\BackpackTask\bin\Debug\BackpackTask.pdb
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\vscode\BackpackTask\BackpackTask\obj\Debug\BackpackTask.exe
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\vscode\BackpackTask\BackpackTask\obj\Debug\BackpackTask.pdb
+C:\Users\INnoVation\Desktop\BackpackTask-master\BackpackTask\bin\Debug\BackpackTask.exe.config
+C:\Users\INnoVation\Desktop\BackpackTask-master\BackpackTask\obj\Debug\BackpackTask.exe
+C:\Users\INnoVation\Desktop\BackpackTask-master\BackpackTask\obj\Debug\BackpackTask.pdb
+C:\Users\INnoVation\Desktop\BackpackTask-master\BackpackTask\bin\Debug\BackpackTask.exe
+C:\Users\INnoVation\Desktop\BackpackTask-master\BackpackTask\bin\Debug\BackpackTask.pdb
+C:\Users\INnoVation\Desktop\BackpackTask-master\BackpackTask\obj\Debug\BackpackTask.csprojResolveAssemblyReference.cache
+C:\Users\INnoVation\Desktop\BackpackTask-master\BackpackTask\obj\Debug\BackpackTask.Form1.resources
+C:\Users\INnoVation\Desktop\BackpackTask-master\BackpackTask\obj\Debug\BackpackTask.Properties.Resources.resources
+C:\Users\INnoVation\Desktop\BackpackTask-master\BackpackTask\obj\Debug\BackpackTask.csproj.GenerateResource.Cache
+C:\Users\INnoVation\Desktop\Метод\BackpackTask\bin\Debug\BackpackTask.exe.config
+C:\Users\INnoVation\Desktop\Метод\BackpackTask\obj\Debug\BackpackTask.exe
+C:\Users\INnoVation\Desktop\Метод\BackpackTask\obj\Debug\BackpackTask.pdb
+C:\Users\INnoVation\Desktop\Метод\BackpackTask\bin\Debug\BackpackTask.exe
+C:\Users\INnoVation\Desktop\Метод\BackpackTask\bin\Debug\BackpackTask.pdb
+C:\Users\INnoVation\Desktop\Метод\BackpackTask\obj\Debug\BackpackTask.csprojResolveAssemblyReference.cache
+C:\Users\INnoVation\Desktop\Метод\BackpackTask\obj\Debug\BackpackTask.Form1.resources
+C:\Users\INnoVation\Desktop\Метод\BackpackTask\obj\Debug\BackpackTask.Properties.Resources.resources
+C:\Users\INnoVation\Desktop\Метод\BackpackTask\obj\Debug\BackpackTask.csproj.GenerateResource.Cache
+C:\Users\InNoVation\Desktop\Задача пакування рюкзака\BackpackTask\bin\Debug\BackpackTask.exe.config
+C:\Users\InNoVation\Desktop\Задача пакування рюкзака\BackpackTask\bin\Debug\BackpackTask.exe
+C:\Users\InNoVation\Desktop\Задача пакування рюкзака\BackpackTask\bin\Debug\BackpackTask.pdb
+C:\Users\InNoVation\Desktop\Задача пакування рюкзака\BackpackTask\obj\Debug\BackpackTask.csprojAssemblyReference.cache
+C:\Users\InNoVation\Desktop\Задача пакування рюкзака\BackpackTask\obj\Debug\BackpackTask.Form1.resources
+C:\Users\InNoVation\Desktop\Задача пакування рюкзака\BackpackTask\obj\Debug\BackpackTask.Properties.Resources.resources
+C:\Users\InNoVation\Desktop\Задача пакування рюкзака\BackpackTask\obj\Debug\BackpackTask.csproj.GenerateResource.cache
+C:\Users\InNoVation\Desktop\Задача пакування рюкзака\BackpackTask\obj\Debug\BackpackTask.csproj.CoreCompileInputs.cache
+C:\Users\InNoVation\Desktop\Задача пакування рюкзака\BackpackTask\obj\Debug\BackpackTask.exe
+C:\Users\InNoVation\Desktop\Задача пакування рюкзака\BackpackTask\obj\Debug\BackpackTask.pdb
